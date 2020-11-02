@@ -1,0 +1,12 @@
+.vscode
+.idea/
+*.pyc
+*.class
+*.log
+*.crc
+metastore_db
+derby.log
+/canary_*.py
+spark-warehouse
+target/
+project/target/
